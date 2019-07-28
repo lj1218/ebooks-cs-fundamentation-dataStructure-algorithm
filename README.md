@@ -37,3 +37,11 @@ Books for Data Structure and Algorithm.
 * 第2版
 
     [剑指Offer-名企面试官精讲典型编程题（第2版）[61M].pdf](https://github.com/lj1218/ebooks-cs-fundamentation-dataStructure-algorithm/raw/master/books/Algorithm/剑指Offer/剑指Offer-名企面试官精讲典型编程题（第2版）[61M].pdf)
+
+#### Others
+
+##### 数据结构与算法题解
+
+* `leetcode/lintcode` 题解
+
+    [algorithm-ebook\_zh-hans[34M].pdf](https://github.com/lj1218/ebooks-cs-fundamentation-dataStructure-algorithm/raw/master/books/Algorithm/Others/algorithm-ebook_zh-hans[34M].pdf)
